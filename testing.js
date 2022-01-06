@@ -2,41 +2,41 @@ const products =[
     {
         id: "product1",
         name:"SAMSUNG TV",
-        price:70000,
+        price:500000,
         image:"./images/product1.png"
     },
 
     {
         id:"product2",
-        name:"Telephone",
-        price:10000,
+        name:"Pixel 4a",
+        price:250000,
         image:"./images/product2.png"
     },
     {
         id:"product3",
         name:"PS 5",
-        price:10000,
+        price:300000,
         image:"./images/product3.png"
     },
 
     {
         id:"product4",
-        name:"Laptop",
-        price:50000,
+        name:"MacBook Air",
+        price:800000,
         image:"./images/product4.png"
     },
 
     {
         id:"product5",
-        name:"Smart Watch",
-        price:7000,
+        name:"Apple Watch",
+        price:95000,
         image:"./images/product5.png"
     },
 
     {
         id:"product6",
-        name:"Earphones",
-        price:2000,
+        name:"Air Pods",
+        price:75000,
         image:"./images/product6.png"
     },
 ]
